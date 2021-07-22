@@ -1,5 +1,5 @@
 # HotelBookingApp
 Project for Hotel Room bookings/reservations.
 
-#Developers
+# Developers
   - Mawuli Azameti
